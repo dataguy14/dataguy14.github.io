@@ -8,17 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ali [Raza](https://www.linkedin.com/in/dataguy-ali/) is a Business Intelligence Analyst with over 5 years of experience in transforming data into insights. He has expertise in Power BI, Tableau, Apache Superset, Looker Studio, DAX, SQL, Python, and Oracle to integrate, analyze, visualize, and communicate data. 
+Ali [Raza](https://www.linkedin.com/in/dataguy-ali/) is a Business Intelligence Analyst with over 5 years of experience in transforming data into insights. He has expertise in Power BI, Tableau, Apache Superset, Looker Studio, DAX, SQL, Python, and Oracle to integrate, analyze, visualize, and communicate data. He worked on projects ranging from ecommerce, construction, health, finance marketing & sales to enterprise reporting deployment. He is passionate about finding new ways to leverage data to solve complex problems and create value. He has a track record of enhancing business growth and efficiency using my Business Intelligence skillset.
 
-He worked on projects ranging from ecommerce, construction, health, finance marketing & sales to enterprise reporting deployment.
-
-He is passionate about finding new ways to leverage data to solve complex problems and create value.
-
-He has a track record of enhancing business growth and efficiency using my Business Intelligence skillset.
-
-He has worked at CCL Pharmaceuticals Lahore as Business Intelligence Analyst, where I revamped the organizational reporting system using SSIS, SSRS, and Power BI to transition from static to dynamic reporting. Achieved over 30% growth in 2.5 years, a first in the company's history, under top management guidance.
-
-Currently working at Shifa International Hospitals as Lead Business Intelligence Analyst, Islamabad, driving enterprise reporting initiatives for clinical and operational excellence. Expertise includes integrating diverse datasets such as EMR data, patient feedback, and operational metrics using SQL and Oracle technologies.
+He has worked at CCL Pharmaceuticals Lahore as Business Intelligence Analyst, where I revamped the organizational reporting system using SSIS, SSRS, and Power BI to transition from static to dynamic reporting. Achieved over 30% growth in 2.5 years, a first in the company's history, under top management guidance. Currently working at Shifa International Hospitals as Lead Business Intelligence Analyst, Islamabad, driving enterprise reporting initiatives for clinical and operational excellence. Expertise includes integrating diverse datasets such as EMR data, patient feedback, and operational metrics using SQL and Oracle technologies.
 
 Proficient in data manipulation and visualization Power BI, optimizing processes across multiple departments and sites. Collaborated with cross-functional teams to automate financial reporting and implement sustainability initiatives.
 
