@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Syed Nauyan Rashid"
+title                    : "Ali Raza"
 title_separator          : "-"
-name                     : &name "Syed Nauyan Rashid"
-description              : &description "PhD Researcher @ NUST SEECS"
-url                      : https://nauyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ali Raza"
+description              : &description "Senior Business Intelligence Lead"
+url                      : https://dataguy14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nauyan/nauyan.github.io"
+repository               : "dataguy14/dataguy14.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : nauyanrashid
+  username               : dataguy-ali
 facebook:
   username               :
   app_id                 :
@@ -89,14 +89,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Syed Nauyan Rashid"
+  name             : "Ali Raza"
   avatar           : "profile.jpeg"
-  bio              : "Machine(Deep) Learning Engineer and PhD Researcher"
+  bio              : "Senior Business Intelligence Lead"
   location         : "Islamabad, Pakistan"
-  employer         : "Red Buffer"
+  employer         : "Shifa International Hospital"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YKIRl2oAAAAJ&hl=en"
-  email            : "nauyan@hotmail.com"
+  googlescholar    : 
+  email            : "dataguy.ali@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -105,20 +105,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nauyan"
+  github           : "dataguy14"
   google_plus      :
   keybase          :
-  instagram        : "nauyanrashid"
+  instagram        : "alirazainsights"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "nauyan"
+  linkedin         : "dataguy-ali"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nauyanrashid"
+  twitter          : "dataguy-ali"
   vine             :
   weibo            :
   xing             :
