@@ -27,7 +27,6 @@ Proficient in data manipulation and visualization Power BI, optimizing processes
 You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">News </span>
-* 09/2019 Started Ph.D in Computer Science under the supervison of [Dr. Muhammad Moazam Fraz](https://www.linkedin.com/in/moazamfraz)
 * 07/2024 Promoted to Senior Lead Business Intelligence Lead at [Shifa](https://www.linkedin.com/company/shifa-international-hospitals-limited/)
 * 04/2024 Successfully completed Empowering Business with Effective Insights certification from [TATA Group](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_FPbLvxyrHwrjFwuBf_1714133893375_completion_certificate.pdf)
 * 10/2023 Successfully completed LLMs certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/TE84UULW2PKG)
@@ -41,10 +40,10 @@ You can find my resume [here](Resume-v10.0.pdf).
 * 12/2019 Successfully defended my thesis and graduated with a Master's Degree in Computer Science
 * 01/2019 Started working as a Business Intelligence Officer at [CCL](https://www.linkedin.com/company/ccl-pharmaceuticals/) under the mentorship of [Syed Farhan Hashmi](https://www.linkedin.com/in/farhan-hashmi-72705627/)
 * 01/2019 Started Master's thesis titled "Deep Learning Based Real-Time Detection of Thoracic Diseases under the supervision of [Dr. Hafeez Ur Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a) and [Dr. Muhammad Nauman](https://www.linkedin.com/in/recluze)
-* 08/2017 Starting Master's in Computer Science MS(CS) from [NUCES-FAST](https://www.nu.edu.pk/)
+* 08/2017 Started Master's in Computer Science MS(CS) from [NUCES-FAST](https://www.nu.edu.pk/)
 * 12/2016 Graduated with a degree in Bachelor's of Science Computer Science (BS-CS)
-* 09/2015 Starting my Final Year Project(FYP) ["IoT-based Remote Patient Monitoring System"](https://github.com/MJunaidAhmad/FYP-1/blob/1d497ddb4521f5c2ad03ec2a2e44bfd8ec4d081a/Documents/prototype%201.pptx) under the supervision of [Dr. Hafeez UR Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a/)
-* 09/2012 Starting Bachelors with a focus in Computer Science from [NUCES-FAST](https://www.nu.edu.pk/)
+* 09/2015 Started my Final Year Project(FYP) ["IoT-based Remote Patient Monitoring System"](https://github.com/MJunaidAhmad/FYP-1/blob/1d497ddb4521f5c2ad03ec2a2e44bfd8ec4d081a/Documents/prototype%201.pptx) under the supervision of [Dr. Hafeez UR Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a/)
+* 09/2012 Started Bachelors with a focus in Computer Science from [NUCES-FAST](https://www.nu.edu.pk/)
 
 <!-- * 10/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg is now also available at [arxiv](https://arxiv.org/abs/2110.07443). 
 * 09/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg in the field of Software Testing and Test Case Prioritization.
