@@ -18,7 +18,7 @@ Proficient in data manipulation and visualization Power BI, optimizing processes
 
 You can find my resume [here](Resume-v10.0.pdf).
 
-<span style="color:darkblue">News </span>
+<span style="color:darkblue">Journey </span>
 * 07/2024 Promoted to Senior Lead Business Intelligence Lead at [Shifa](https://www.linkedin.com/company/shifa-international-hospitals-limited/)
 * 04/2024 Successfully completed Empowering Business with Effective Insights certification from [TATA Group](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_FPbLvxyrHwrjFwuBf_1714133893375_completion_certificate.pdf)
 * 10/2023 Successfully completed LLMs certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/TE84UULW2PKG)
