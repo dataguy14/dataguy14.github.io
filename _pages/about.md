@@ -27,35 +27,23 @@ Proficient in data manipulation and visualization Power BI, optimizing processes
 You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">News </span>
-* 05/2023 Wrote a medium article titled ["Getting Started with PyTorch Distributed"](https://medium.com/p/54ae933bb9f0)
-* 04/2023 Publised journal paper titled ["Nuclei Probability and Centroid Map Network for Nuclei Instance Segmentation in Histology Images"](https://link.springer.com/article/10.1007/s00521-023-08503-2) in Neural Computing and Application
-* 03/2022 Wrote a medium article titled ["Setting Up Spark Cluster and Submitting Your First Spark Job"](https://medium.com/p/13410e7ac71f)
-* 01/2022 Publised journal paper titled ["Early-Stage Segmentation and Characterization of Brain Tumor"](https://cdn.techscience.cn/ueditor/files/cmc/TSP_CMC-73-1/TSP_CMC_23135/TSP_CMC_23135.pdf) in CMC
-* 01/2022 Appointed Teaching Assitant (TA) for Advanced Computer Vision (CS-893) at NUST-SEECS for Spring 2022
-* 12/2022 Published a medium article on ["Spinning a Docker Container with Cuda Enabled TensorFlow"](https://medium.com/p/99d3d18655ec)
-* 11/2021 Published a medium article titled ["Semantic Segmentation: U-Net"](https://medium.com/p/1e5c0f4516a5)
-* 09/2021 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2021
-* 08/2021 Wrote an article on medium titled ["Setting up PyTorch and TensorFlow on a Windows Machine"](https://medium.com/red-buffer/setting-up-pytorch-and-tensorflow-on-a-windows-machine-7b860855d9f8)
-* 05/2021 Wrote an article on medium titled ["Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images"](https://medium.com/p/6cd56b857ce6)
-* 03/2021 Published medium article on ["AI in Computational Pathology"](https://medium.com/p/d05d8f9f3c03)
-* 03/2021 Cleared Ph.D Synopsis Defence titled "Deep Learning Based Cancer Image Analytics for Identification of Prognostic Digital Biomarkers"
-* 01/2021 Appointed Teaching Assitant (TA) for Deep Learning (CS-878) at NUST-SEECS for Spring 2021
-* 12/2020 Publised conference paper titled ["Multiscale Dilated Unet for Segmentation of Multi-Organ Nuclei in Digital Histology Images"](https://ieeexplore.ieee.org/abstract/document/9322833/) in HONET 2020
-* 12/2020 Joined [Red Buffer](https://redbuffer.ai/) as a Senior Machine Learning Engineer under the mentorship of [Tayyab Tariq](https://www.linkedin.com/in/tayyabtariq/) 
-* 11/2020 Cleared both major and minor exams of Ph.D Qualifier A 
-* 09/2020 Appointed Teaching Assitant (TA) for Computer Vision (CS-867) at NUST-SEECS for Fall 2020
-* 06/2020 Completed Ph.D course work with major courses i.e Computer Vision, Advanced Computer Vision, Deep Learning and Machine Learning
-* 10/2019 Joined [Machine Vision and Learning Lab](https://vision.seecs.edu.pk/) as a Doctoral Researcher
 * 09/2019 Started Ph.D in Computer Science under the supervison of [Dr. Muhammad Moazam Fraz](https://www.linkedin.com/in/moazamfraz)
-* 06/2019 Went solo on Hajj Pilgrimage
-* 05/2019 Started working as a Machine Learning Engineer at [Esper Solutions](https://www.linkedin.com/company/esper-solutions/)
-* 12/2018 Sucessfully defended my thesis and gradudated with a Master's Degree in Computer Science
-* 09/2017 Started Master's thesis titled "Early Stage Segmentation and Characterization of Brain Tumor" with focus on Bio-Medical Imaging, Deep Learning and Computer Vision under the superivson of [Dr. Hafeez Ur Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a) and [Dr. Muhammad Nauman](https://www.linkedin.com/in/recluze)
-* 08/2017 Started working as a Data Scientist at [InfoMatrix](https://www.in-matrix.org/) under the mentorship of [Dr. Rehan Basham](https://www.linkedin.com/in/rehanbasham/)
-* 09/2016 Starting Master's in Computer Science MS(CS) from [NUCES-FAST](https://www.nu.edu.pk/)
-* 06/2016 Started working as a Software Engineer at [Hive Worx](https://hive-worx.com/)
-* 05/2016 Graduated with a degree in Bachelor's of Science Computer Science (BS-CS)
-* 09/2015 Starting my Final Year Project(FYP) ["A library for UI/UX testing on Android based smartphones"](https://github.com/MJunaidAhmad/FYP-1/blob/1d497ddb4521f5c2ad03ec2a2e44bfd8ec4d081a/Documents/prototype%201.pptx) under the supervisor of [Dr. Muhammad Nauman](https://www.linkedin.com/in/recluze/)
+* 07/2024 Promoted to Senior Lead Business Intelligence Lead at [Shifa](https://www.linkedin.com/company/shifa-international-hospitals-limited/)
+* 04/2024 Successfully completed Empowering Business with Effective Insights certification from [TATA Group](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_FPbLvxyrHwrjFwuBf_1714133893375_completion_certificate.pdf)
+* 10/2023 Successfully completed LLMs certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/TE84UULW2PKG)
+* 10/2023 Successfully completed Python for Data Science, AI & Development certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/9TEHVNGTDYTE) [IBM](https://www.ibm.com/training/badge/python-for-data-science-and-ai)
+* 09/2023 Successfully completed Generative AI certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/4GJXNFXZQ86H)
+* 07/2023 Promoted to Lead Business Intelligence Analyst at [Shifa](https://www.linkedin.com/company/shifa-international-hospitals-limited/)
+* 11/2021 Started working as a Business Intelligence Specialist at [Shifa](https://www.linkedin.com/company/shifa-international-hospitals-limited/)
+* 07/2020 Promoted to the Business Intelligence Executive at [CCL](https://www.linkedin.com/company/ccl-pharmaceuticals/)
+* 04/2020 Successfully completed Neural Networks and Deep Learning certification from [Coursera](https://www.coursera.org/account/accomplishments/certificate/ZRJCPX6RAWSJ)
+* 04/2020 Successfully completed SQL Server Integration Services (SSIS) certification from [Udemy](https://www.udemy.com/certificate/UC-49709a0b-eaba-46db-a42f-b3861edc3b14/)
+* 12/2019 Successfully defended my thesis and graduated with a Master's Degree in Computer Science
+* 01/2019 Started working as a Business Intelligence Officer at [CCL](https://www.linkedin.com/company/ccl-pharmaceuticals/) under the mentorship of [Syed Farhan Hashmi](https://www.linkedin.com/in/farhan-hashmi-72705627/)
+* 01/2019 Started Master's thesis titled "Deep Learning Based Real-Time Detection of Thoracic Diseases under the supervision of [Dr. Hafeez Ur Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a) and [Dr. Muhammad Nauman](https://www.linkedin.com/in/recluze)
+* 08/2017 Starting Master's in Computer Science MS(CS) from [NUCES-FAST](https://www.nu.edu.pk/)
+* 12/2016 Graduated with a degree in Bachelor's of Science Computer Science (BS-CS)
+* 09/2015 Starting my Final Year Project(FYP) ["IoT-based Remote Patient Monitoring System"](https://github.com/MJunaidAhmad/FYP-1/blob/1d497ddb4521f5c2ad03ec2a2e44bfd8ec4d081a/Documents/prototype%201.pptx) under the supervision of [Dr. Hafeez UR Rehman](https://www.linkedin.com/in/dr-hafeez-ur-rehman-9b6a763a/)
 * 09/2012 Starting Bachelors with a focus in Computer Science from [NUCES-FAST](https://www.nu.edu.pk/)
 
 <!-- * 10/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg is now also available at [arxiv](https://arxiv.org/abs/2110.07443). 
