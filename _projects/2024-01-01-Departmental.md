@@ -1,6 +1,6 @@
 ---
 title: "Departmental Performance Tracking and Sharing"
-date:   2023-12-01
+date:   2023-01-01
 permalink: /Departmental/
 tags:
   - Computer Vision
