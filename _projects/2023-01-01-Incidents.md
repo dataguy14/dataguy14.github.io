@@ -1,7 +1,7 @@
 ---
 title: "Incidents Metadata Creation & Improvement Area Identification"
 date:   2022-08-01
-permalink: /Yotascale/
+permalink: /Incidents/
 tags:
   - Data Science
   - Big Data, Anomaly Detection
