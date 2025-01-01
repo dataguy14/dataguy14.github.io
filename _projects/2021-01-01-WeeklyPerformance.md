@@ -1,6 +1,6 @@
 ---
 title: "Automated Weekly Hospital Performance Monitoring and Decision-Making System"
-date:   2021-01-01
+date:   2022-01-01
 permalink: /Anti-Money-Laundering-Detection-from-Transaction-Data/
 tags:
   - Automation
