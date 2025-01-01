@@ -25,8 +25,7 @@ tags:
 ---
 
 **Goal:** To streamline incident data management by ensuring accurate metadata entry, minimizing errors, and enabling real-time insights to highlight high-risk areas for improvement.\
-Challenges: The existing system relied on direct metadata entry into Google Sheets without field validation, leading to frequent human errors. Fields that could be calculated were manually entered, historical data exploration was cumbersome, and there was no live reporting mechanism.\
-
+**Challenges:** The existing system relied on direct metadata entry into Google Sheets without field validation, leading to frequent human errors. Fields that could be calculated were manually entered, historical data exploration was cumbersome, and there was no live reporting mechanism.\
 **Approach:**\
 **Improving Data Entry Process:** Implemented field validation to ensure accurate data entry and reduced manual input by introducing calculated fields, minimizing human errors.
 **Historical Data Cleanup:** Identified and corrected errors in historical data to ensure consistency and reliability.\
