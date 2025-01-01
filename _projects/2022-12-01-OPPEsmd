@@ -16,16 +16,16 @@ tags:
   - AWS Cloud
 ---
 
-Goal: To streamline and automate the evaluation of professional practices by eliminating manual processes, enabling efficient performance monitoring, and addressing a 3-year backlog in consultant appraisals.
+**Goal:** To streamline and automate the evaluation of professional practices by eliminating manual processes, enabling efficient performance monitoring, and addressing a 3-year backlog in consultant appraisals.
 \
-Challenges: The evaluation process relied heavily on manual data extraction, entry, and calculations across multiple sources for each consultant. This time-consuming approach led to inefficiencies, delays, and an inability to monitor performance effectively.
-Approach:\
-Automation and Integration: Developed an automated grading system that integrated data from over 10 sources. This system eliminated the need for manual data handling.\
-Leveraging Existing Resources: Reused transformed KPIs data and mapped them to individual consultants for specific durations, ensuring consistency and accuracy.\
-Metadata and Relationships: Created detailed metadata for consultants and KPIs while building a robust data model that defined relationships between datasets.\
-Advanced Calculations: Applied DAX functions to handle complex calculations, ensuring precise performance metrics for each consultant.\
-Centralized Monitoring: Designed a centralized appraisal dashboard that provided real-time insights into consultant performance, enabling efficient monitoring and decision-making.\
-Impact: The project transformed the appraisal process by automating data handling and calculations, addressing a 3-year backlog, and integrating over 10 data sources. The centralized dashboard became a single source of truth for consultant performance, fostering transparency and efficiency. This initiative set a benchmark for automated performance evaluation, demonstrating the power of data integration and innovation in professional practices management.\
+**Challenges:** The evaluation process relied heavily on manual data extraction, entry, and calculations across multiple sources for each consultant. This time-consuming approach led to inefficiencies, delays, and an inability to monitor performance effectively.
+**Approach:**\
+**Automation and Integration:** Developed an automated grading system that integrated data from over 10 sources. This system eliminated the need for manual data handling.\
+**Leveraging Existing Resources:** Reused transformed KPIs data and mapped them to individual consultants for specific durations, ensuring consistency and accuracy.\
+**Metadata and Relationships:** Created detailed metadata for consultants and KPIs while building a robust data model that defined relationships between datasets.\
+**Advanced Calculations:** Applied DAX functions to handle complex calculations, ensuring precise performance metrics for each consultant.\
+**Centralized Monitoring:** Designed a centralized appraisal dashboard that provided real-time insights into consultant performance, enabling efficient monitoring and decision-making.\
+**Impact:** The project transformed the appraisal process by automating data handling and calculations, addressing a 3-year backlog, and integrating over 10 data sources. The centralized dashboard became a single source of truth for consultant performance, fostering transparency and efficiency. This initiative set a benchmark for automated performance evaluation, demonstrating the power of data integration and innovation in professional practices management.\
 
 **This project highlights my ability to identify inefficiencies, propose innovative solutions, and deliver impactful results through automation and data-driven approaches.**
 
