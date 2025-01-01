@@ -1,6 +1,6 @@
 ---
-title: "Sports Memorabilia"
-date:   2020-11-01
+title: "Business Intelligence System & Reporting Transformation Strategy"
+date:   2021-01-01
 permalink: /Sports-Memorabilia/
 tags:
   - Computer Vision
@@ -11,4 +11,11 @@ tags:
   - Android App
 ---
 
-The goal of this project is to build a mobile app that can take a photograph of a baseball card and identify the baseball card from a database of baseball cards. Once matching is complete, all the metadata of the baseball card is to be returned to the end-user. The Machine Learning part consists of database that will contain all the extracted features from the final layer of the images of baseball cards and a similarity search feature that will take input an image, create its features by running a forward pass from the model then returns the results (of most similar card from database) of that card. The stack used for this project was Python, PyTorch and Android App. I was involved in training and developing the matching algorithm. Additionally, I collaborated with the mobile application team for APIs for communication of mobile applications with the machine learning backend.
+The goal of this project is to build to transform the existing reporting system which consists of manual data extraction, report creation, and data sharing in CCL. I proposed the transformation strategy and developed state-of-the-art BI pipeline from data extraction to the report sharing. 
+
+Under the supervision of [Dr. Shahzad Khan](https://www.linkedin.com/in/shahzad-khan-14372226) and [Syed Iftikhar Hashmi], I integrated data sources like [IQVIA datasets], marketing & sales, Human Resources, and Finance using SSIS. Then created the tabular model in SSAS and used Power BI for data visualization. 
+
+For automated data sharing, I configured the set of reports in Power BI service and schedule the refresh intervals and set the subscriptions for scheduled data sharing with the top management.
+
+The CEO Dr. Shahzad Khan acknowledged that my reporting system helped him to make informed decisions by presenting [Value appreciation card (VAC)](https://www.linkedin.com/posts/dataguy-ali_bisuccessstories-bianalyst-ccl-activity-7234109955044204544-5T8y?utm_source=share&utm_medium=member_desktop) The CEO remarked as "For creating a set of reports/information which helped me in making agile decisions."CCL gained record growth, highest in the history. 
+As I see it, when we approach our work with a business mindset, treating our roles as if we're running our own companies, we unlock the potential for extraordinary contributions. 
