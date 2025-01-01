@@ -1,7 +1,7 @@
 ---
-title: "Debmarine - Safety Application for Industrial Working Enviornments"
-date:   2022-12-01
-permalink: /Debmarine-Safety-Application-for-Industrial-Working-Enviornments/
+title: "Departmental Performance Tracking and Sharing"
+date:   2023-12-01
+permalink: /Departmental/
 tags:
   - Computer Vision
   - Python
