@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  
 
 #  - title: "Publications"
 #    url: /publications/    
@@ -15,7 +14,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Medium Articles"
+  - title: "Linkedin Articles"
     url: /medium-articles/
 
   - title: "Industry Projects"
