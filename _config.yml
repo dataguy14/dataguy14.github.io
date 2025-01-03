@@ -228,14 +228,7 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: 
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comments: false
+ 
   # _portfolio
   - scope:
       path: ""
