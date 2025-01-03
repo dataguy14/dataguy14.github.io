@@ -1,6 +1,6 @@
 ---
 title: "Building Scalable Data Governance in Healthcare Through Effective Data Domain Strategies"
-date:   2024-30-09
+date:   2024-09-30
 permalink: /DGDomains/
 tags:
   - Data Governance 
