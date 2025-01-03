@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Ali [Raza](https://www.linkedin.com/in/dataguy-ali/) is a Business Intelligence Analyst with over 5 years of experience in transforming data into insights. He has expertise in Power BI, Tableau, Apache Superset, Looker Studio, DAX, SQL, Python, and Oracle to integrate, analyze, visualize, and communicate data. He worked on projects ranging from ecommerce, construction, health, finance marketing & sales to enterprise reporting deployment. He is passionate about finding new ways to leverage data to solve complex problems and create value. He has a track record of enhancing business growth and efficiency using my Business Intelligence skillset.
-
-He has worked at CCL Pharmaceuticals Lahore as Business Intelligence Analyst, where I revamped the organizational reporting system using SSIS, SSRS, and Power BI to transition from static to dynamic reporting. Achieved over 30% growth in 2.5 years, a first in the company's history, under top management guidance. Currently working at Shifa International Hospitals as Lead Business Intelligence Analyst, Islamabad, driving enterprise reporting initiatives for clinical and operational excellence. Expertise includes integrating diverse datasets such as EMR data, patient feedback, and operational metrics using SQL and Oracle technologies.
-
-Proficient in data manipulation and visualization Power BI, optimizing processes across multiple departments and sites. Collaborated with cross-functional teams to automate financial reporting and implement sustainability initiatives.
-
-💡 Adept in teamwork and collaboration, leading projects with over 80 departments and 4 sites towards achieving enterprise goals, including JCI Re-accreditation.
-
+ [I](https://www.linkedin.com/in/dataguy-ali/) am a Senior Business Intelligence Lead with over five years of experience transforming data into actionable insights that drive business growth. My focus goes beyond tools and technical skills—though I am proficient in Power BI, Tableau, Apache Superset, Looker Studio, DAX, SQL, Python, and Oracle—to the impact my work creates. I believe that having a vision for how data can transform business outcomes is more critical than any single tool or skill, as technical proficiencies can always be learned.
+\
+Throughout my career, I have consistently enhanced business performance by building robust BI pipelines and developing enterprise reporting structures that provide a unified view of operations. My project portfolio spans industries including e-commerce, construction, healthcare, finance, marketing, and enterprise reporting, reflecting my adaptability and strategic mindset.
+\
+At CCL Pharmaceuticals, I revolutionized the reporting system, transitioning from static to dynamic reporting with SSIS, SSRS, and Power BI. These efforts contributed to achieving unprecedented growth of over 30% in just 2.5 years. At Shifa International Hospitals, I have been instrumental in driving enterprise reporting initiatives and integrating diverse datasets, such as EMR data, patient feedback, and operational metrics. These initiatives have supported clinical and operational excellence while ensuring data-driven decision-making across the organization.
+\
+I am also an active member of the Data Governance Committee, where I have taken the lead in creating a Master Plan for Healthcare Data Governance Implementation. This plan emphasizes core elements such as data quality, access, security, lineage, compliance, and stewardship. By aligning governance frameworks with the organization's strategic goals, I am ensuring data integrity and trustworthiness while enabling scalability for future innovations.
+\
+My expertise extends to leading cross-functional teams, automating financial reporting, and implementing sustainability initiatives that align with long-term organizational goals. Collaborating with over 80 departments and four sites, I have successfully led projects such as achieving JCI re-accreditation and introducing transformative data governance frameworks.
+\
+💡 I am passionate about turning data into a strategic asset and creating tangible value through innovative solutions. My mission is to align data initiatives with organizational goals, ensuring every insight contributes meaningfully to growth, efficiency, and operational excellence.
+\
 You can find my resume [here](Resume-v10.0.pdf).
 
 <span style="color:darkblue">Journey </span>
