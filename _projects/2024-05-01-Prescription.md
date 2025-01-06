@@ -12,14 +12,14 @@ tags:
 ---
 
 **Goal:** To bridge the gap between prescriptions generated in the EMR system and those dispensed at the pharmacy, ensuring compliance and preventing revenue leakage.
-
+\
 **Challenges:**
-
+\
 No Unique Identifier: Prescriptions dispensed at the pharmacy were not assigned the same unique ID as those generated in the EMR system.\
 Lack of Visibility: Approximately 65% of prescriptions were bypassing the pharmacy, leading to significant business losses.\
 System Gap: Disconnected processes between prescription issuance and fulfillment hindered effective monitoring and compliance.\
 **Approach:**
-
+\
 **Gap Analysis:** Identified discrepancies between prescriptions issued and dispensed by analyzing data from the EMR system and pharmacy records.\
 **Unique ID Assignment:** Designed a process to generate and assign unique IDs to prescriptions across both systems for seamless tracking.\
 **Data Integration and Monitoring:** Integrated EMR and pharmacy data to provide leadership with a comprehensive compliance tracking dashboard.\
