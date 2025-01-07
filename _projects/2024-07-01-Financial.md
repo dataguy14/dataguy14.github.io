@@ -20,4 +20,4 @@ tags:
 **Holistic Reporting Framework:** Developed key financial reports, including Revenue, Discounts, Net Revenue, Balance Sheet, Profit and Loss, Taxes, Cash Flow, Aging, Purchases, Stock, and Payroll & HR.\
 **Impact:** The initiative provided a centralized financial intelligence platform, enhancing decision-making capabilities with accurate and real-time insights. It streamlined financial reporting, ensured data security, and improved organizational transparency.
 \
-**This project exemplifies my expertise in financial data modeling, advanced reporting, and delivering enterprise-grade solutions that empower informed strategic decisions.**
+<ins>**This project exemplifies my expertise in financial data modeling, advanced reporting, and delivering enterprise-grade solutions that empower informed strategic decisions.**
