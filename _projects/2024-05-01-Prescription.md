@@ -28,4 +28,4 @@ Impact:
 **Revenue Recovery:** Addressed the gap that allowed prescriptions to bypass the pharmacy, reducing business losses.\
 **Leadership Insights:** Equipped decision-makers with tools to monitor compliance closely and implement corrective measures.\
 **Improved Processes:** Streamlined prescription tracking from issuance to dispensing, ensuring accountability and operational efficiency.\
-**This project demonstrates my ability to identify critical system gaps, implement robust data integration solutions, and drive financial recovery through enhanced monitoring and compliance mechanisms.**
+<ins>**This project demonstrates my ability to identify critical system gaps, implement robust data integration solutions, and drive financial recovery through enhanced monitoring and compliance mechanisms.**
