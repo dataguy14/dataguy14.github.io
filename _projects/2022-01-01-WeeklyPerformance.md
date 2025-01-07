@@ -29,6 +29,6 @@ The new automated system ensures that data updates in real time, with automated 
 \
 **Operational Metrics:** Total Number of Dialysis Sessions, Daycare Procedures, Flu Vaccine Administration, and Surgical Cancellations.
 \
-**This broad range of metrics provides a comprehensive view of hospital performance, supporting effective decision-making across clinical, operational, and strategic domains.**
+<ins>**This broad range of metrics provides a comprehensive view of hospital performance, supporting effective decision-making across clinical, operational, and strategic domains.**</ins>
 
    
