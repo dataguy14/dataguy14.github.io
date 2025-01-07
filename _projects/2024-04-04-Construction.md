@@ -28,4 +28,4 @@ tags:
 **Enhanced Workforce Visibility:** Provided insights into workforce status, helping identify free, booked, and surplus employees for specific timelines.\
 **Proactive Planning:** Enabled the client to address workforce shortfalls proactively, optimizing project staffing and resource allocation.\
 **Improved Data Practices:** Delivered a structured data collection system and insights, driving better data quality and decision-making.\
-**This project demonstrates my ability to collaborate with clients to understand their needs, design data-driven solutions, and adapt to new technologies to deliver scalable and impactful results.**
+<ins>**This project demonstrates my ability to collaborate with clients to understand their needs, design data-driven solutions, and adapt to new technologies to deliver scalable and impactful results.**
