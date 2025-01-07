@@ -22,7 +22,7 @@ tags:
 **Handover Process:** Ensured smooth handover of the dashboard to departments, providing them with the tools and training needed for independent monitoring and analysis.\
 **Impact:** The project empowered departments with improved performance monitoring at lower hierarchy levels, fostering accountability and driving targeted improvements. By consolidating key data into an accessible dashboard, departments gained actionable insights, enhancing operational efficiency and effectiveness.
 \
-**This initiative underscores my ability to deliver tailored solutions that promote transparency, empower teams, and drive organizational growth.**
+<ins>**This initiative underscores my ability to deliver tailored solutions that promote transparency, empower teams, and drive organizational growth.**
 
 
 
